@@ -1,0 +1,25 @@
+{
+  "name": "user-login-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantcrews/User-Login-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryantcrews/User-Login-App/issues"
+  },
+  "homepage": "https://github.com/ryantcrews/User-Login-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.18",
+    "path": "^0.12.7"
+  }
+}
